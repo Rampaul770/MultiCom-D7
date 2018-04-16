@@ -1,4 +1,3 @@
-n
 # MultiCom written in Delphi
 
 Terminal Client for TCP/IP / Serial connections
